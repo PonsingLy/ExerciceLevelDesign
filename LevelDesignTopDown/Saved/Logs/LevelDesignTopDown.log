@@ -2009,3 +2009,1098 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.04.20-13.01.50:211][ 24]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_2015878157
 [2024.04.20-13.01.50:211][ 24]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ActorFolder_UID_10609584-4EC011B3-7847AA94-5903BAAB
 [2024.04.20-13.01.50:214][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.04.20-13.02.17:684][173]LogWindowsTextInputMethodSystem: Activated input method: French (France) - (Keyboard).
+[2024.04.20-13.02.17:684][173]LogWindowsTextInputMethodSystem: Activated input method: French (France) - (Keyboard).
+[2024.04.20-13.02.46:204][400]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.04.20-13.02.46:205][400]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.20-13.02.46:205][400]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.20-13.02.46:213][400]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.04.20-13.02.46:745][400]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.20-13.02.46:887][402]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.20-13.02.52:823][750]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2024.04.20-13.02.58:871][103]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.04.20-13.02.58:871][103]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.04.20-13.03.20:222][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.20-13.03.20:247][354]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.20-13.03.20:294][354]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.04.20-13.03.20:294][354]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/BP_TopDownCharacter80AD4527475255F2951A35B9B5A3CCEE.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.04.20-13.03.20:300][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 790 ms)
+[2024.04.20-13.03.20:301][354]AssetCheck: New page: Asset Save: BP_TopDownCharacter
+[2024.04.20-13.03.20:301][354]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.04.20-13.03.21:512][427]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.20-13.03.21:516][427]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.20-13.03.21:516][427]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.04.20-13.03.21:518][427]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 2 ms (total: 11 ms)
+[2024.04.20-13.03.21:518][427]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.20-13.03.21:519][427]LogPlayLevel: [PlayLevel] Compiling BP_TopDownCharacter before play...
+[2024.04.20-13.03.21:560][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.20-13.03.21:560][427]LogPlayLevel: PlayLevel: Blueprint regeneration took 42 ms (1 blueprints)
+[2024.04.20-13.03.21:560][427]PIE: New page: PIE session: TopDownMap (Apr 20, 2024, 5:03:21 PM)
+[2024.04.20-13.03.21:560][427]LogPlayLevel: Display: Creating online subsystem for client :Context_17
+[2024.04.20-13.03.21:562][427]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.04.20-13.03.21:632][428]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.04.20-13.03.21:636][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003625s)
+[2024.04.20-13.03.21:636][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.003664s)
+[2024.04.20-13.03.21:642][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.20-13.03.21:643][428]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.20-13.03.21:643][428]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.20-13.03.21:645][428]LogAIModule: Creating AISystem for world TopDownMap
+[2024.04.20-13.03.21:646][428]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.20-13.03.21:646][428]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.20-13.03.21:646][428]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.20-13.03.21:646][428]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.20-13.03.21:647][428]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.04.20-13.03.21:647][428]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 46 ms)
+[2024.04.20-13.03.21:647][428]LogPlayLevel: PIE: World Init took: (0.003819s)
+[2024.04.20-13.03.21:647][428]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.04.20-13.03.21:647][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.20-13.03.21:647][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.20-13.03.21:647][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.20-13.03.21:647][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.20-13.03.21:647][428]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.20-13.03.21:647][428]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.20-13.03.21:647][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.20-13.03.21:647][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.20-13.03.21:647][428]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.20-13.03.21:647][428]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.20-13.03.21:647][428]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.20-13.03.21:648][428]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.20-13.03.21:667][428]LogAudioMixer: Display: Using Audio Hardware Device Virtual Speakers (Virtual Speakers for AudioRelay)
+[2024.04.20-13.03.21:668][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.20-13.03.21:668][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.20-13.03.21:668][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.20-13.03.21:668][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.04.20-13.03.21:668][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.04.20-13.03.21:669][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.04.20-13.03.21:670][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.04.20-13.03.21:670][428]LogInit: FAudioDevice initialized with ID 8.
+[2024.04.20-13.03.21:670][428]LogAudio: Display: Audio Device (ID: 8) registered with world 'TopDownMap'.
+[2024.04.20-13.03.21:670][428]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.20-13.03.21:673][428]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.04.20-13.03.21:675][428]LogPhysics: Warning: Scale for /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_1607650147.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=2.000 Z=2.500
+[2024.04.20-13.03.21:675][428]LogPhysics: Warning: Scale for /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_2015878157.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=2.000 Z=2.500
+[2024.04.20-13.03.21:675][428]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.04.20-15.03.21
+[2024.04.20-13.03.21:676][428]LogWorld: Bringing up level for play took: 0.001813
+[2024.04.20-13.03.21:678][428]PIE: Server logged in
+[2024.04.20-13.03.21:679][428]PIE: Play in editor total start time 0.163 seconds.
+[2024.04.20-13.03.22:999][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.20-13.03.22:999][492]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.04.20-13.03.22:999][492]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.20-13.03.22:999][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.20-13.03.22:999][492]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.04.20-13.03.23:026][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.20-13.03.23:028][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.20-13.03.23:034][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.20-13.03.23:034][492]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.20-13.03.23:034][492]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.20-13.03.23:036][492]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.20-13.03.23:041][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.04.20-13.03.23:091][493]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.04.20-13.03.31:910][ 17]LogSlate: Window 'BP_TopDownCharacter' being destroyed
+[2024.04.20-13.03.31:918][ 17]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.04.20-13.03.31:918][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.20-13.03.34:085][145]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.20-13.03.34:088][145]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.20-13.03.34:088][145]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.04.20-13.03.34:090][145]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1 ms (total: 13 ms)
+[2024.04.20-13.03.34:090][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.20-13.03.34:090][145]PIE: New page: PIE session: TopDownMap (Apr 20, 2024, 5:03:34 PM)
+[2024.04.20-13.03.34:090][145]LogPlayLevel: Display: Creating online subsystem for client :Context_18
+[2024.04.20-13.03.34:091][145]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.04.20-13.03.34:106][146]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.04.20-13.03.34:109][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003375s)
+[2024.04.20-13.03.34:109][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.003415s)
+[2024.04.20-13.03.34:116][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.20-13.03.34:118][146]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.20-13.03.34:118][146]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.20-13.03.34:118][146]LogAIModule: Creating AISystem for world TopDownMap
+[2024.04.20-13.03.34:119][146]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.20-13.03.34:119][146]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.20-13.03.34:119][146]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.20-13.03.34:119][146]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.20-13.03.34:119][146]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.04.20-13.03.34:119][146]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 47 ms)
+[2024.04.20-13.03.34:119][146]LogPlayLevel: PIE: World Init took: (0.002072s)
+[2024.04.20-13.03.34:119][146]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.04.20-13.03.34:119][146]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.20-13.03.34:119][146]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.20-13.03.34:120][146]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.20-13.03.34:120][146]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.20-13.03.34:120][146]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.20-13.03.34:120][146]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.20-13.03.34:120][146]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.20-13.03.34:120][146]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.20-13.03.34:121][146]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.20-13.03.34:121][146]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.20-13.03.34:121][146]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.20-13.03.34:122][146]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.20-13.03.34:141][146]LogAudioMixer: Display: Using Audio Hardware Device Virtual Speakers (Virtual Speakers for AudioRelay)
+[2024.04.20-13.03.34:141][146]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.20-13.03.34:141][146]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.20-13.03.34:141][146]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.20-13.03.34:142][146]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.04.20-13.03.34:142][146]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.04.20-13.03.34:143][146]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.04.20-13.03.34:143][146]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.04.20-13.03.34:143][146]LogInit: FAudioDevice initialized with ID 9.
+[2024.04.20-13.03.34:143][146]LogAudio: Display: Audio Device (ID: 9) registered with world 'TopDownMap'.
+[2024.04.20-13.03.34:143][146]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.20-13.03.34:145][146]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.04.20-13.03.34:147][146]LogPhysics: Warning: Scale for /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_1607650147.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=2.000 Z=2.500
+[2024.04.20-13.03.34:147][146]LogPhysics: Warning: Scale for /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_2015878157.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=2.000 Z=2.500
+[2024.04.20-13.03.34:147][146]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.04.20-15.03.34
+[2024.04.20-13.03.34:147][146]LogWorld: Bringing up level for play took: 0.001366
+[2024.04.20-13.03.34:150][146]PIE: Server logged in
+[2024.04.20-13.03.34:150][146]PIE: Play in editor total start time 0.062 seconds.
+[2024.04.20-13.03.41:160][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.20-13.03.41:160][562]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.04.20-13.03.41:160][562]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.20-13.03.41:160][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.20-13.03.41:160][562]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.04.20-13.03.41:162][562]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.20-13.03.41:165][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.20-13.03.41:175][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.20-13.03.41:176][562]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.20-13.03.41:176][562]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.20-13.03.41:177][562]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.20-13.03.41:182][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.04.20-13.03.41:238][564]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.04.20-13.03.45:797][835]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.04.20-13.03.45:797][835]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.20-13.03.45:797][835]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.20-13.03.54:558][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.20-13.03.54:608][345]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.04.20-13.03.54:608][345]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/BP_TopDownCharacter7116AD8F45CFA0BE76D8538343C2C691.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.04.20-13.03.54:614][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 846 ms)
+[2024.04.20-13.03.54:615][345]AssetCheck: New page: Asset Save: BP_TopDownCharacter
+[2024.04.20-13.03.54:615][345]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.04.20-13.03.57:593][520]LogSlate: Window 'BP_TopDownCharacter' being destroyed
+[2024.04.20-13.04.02:015][742]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.20-13.04.02:018][742]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.20-13.04.02:018][742]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.04.20-13.04.02:019][742]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1 ms (total: 14 ms)
+[2024.04.20-13.04.02:020][742]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.20-13.04.02:020][742]LogPlayLevel: [PlayLevel] Compiling BP_TopDownCharacter before play...
+[2024.04.20-13.04.02:059][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.20-13.04.02:060][742]LogPlayLevel: PlayLevel: Blueprint regeneration took 40 ms (1 blueprints)
+[2024.04.20-13.04.02:060][742]PIE: New page: PIE session: TopDownMap (Apr 20, 2024, 5:04:02 PM)
+[2024.04.20-13.04.02:060][742]LogPlayLevel: Display: Creating online subsystem for client :Context_20
+[2024.04.20-13.04.02:062][742]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.04.20-13.04.02:127][743]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.04.20-13.04.02:131][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003853s)
+[2024.04.20-13.04.02:131][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.003894s)
+[2024.04.20-13.04.02:138][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.20-13.04.02:138][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.20-13.04.02:138][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.20-13.04.02:139][743]LogAIModule: Creating AISystem for world TopDownMap
+[2024.04.20-13.04.02:140][743]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.20-13.04.02:140][743]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.20-13.04.02:140][743]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.20-13.04.02:140][743]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.20-13.04.02:141][743]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.04.20-13.04.02:141][743]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 48 ms)
+[2024.04.20-13.04.02:141][743]LogPlayLevel: PIE: World Init took: (0.001982s)
+[2024.04.20-13.04.02:141][743]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.04.20-13.04.02:141][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.20-13.04.02:141][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.20-13.04.02:141][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.20-13.04.02:141][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.20-13.04.02:141][743]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.20-13.04.02:141][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.20-13.04.02:141][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.20-13.04.02:141][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.20-13.04.02:141][743]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.20-13.04.02:141][743]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.20-13.04.02:141][743]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.20-13.04.02:142][743]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.20-13.04.02:161][743]LogAudioMixer: Display: Using Audio Hardware Device Virtual Speakers (Virtual Speakers for AudioRelay)
+[2024.04.20-13.04.02:161][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.20-13.04.02:161][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.20-13.04.02:161][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.20-13.04.02:162][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.04.20-13.04.02:162][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.04.20-13.04.02:163][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.04.20-13.04.02:163][743]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.04.20-13.04.02:163][743]LogInit: FAudioDevice initialized with ID 10.
+[2024.04.20-13.04.02:163][743]LogAudio: Display: Audio Device (ID: 10) registered with world 'TopDownMap'.
+[2024.04.20-13.04.02:163][743]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.20-13.04.02:166][743]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.04.20-13.04.02:168][743]LogPhysics: Warning: Scale for /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_1607650147.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=2.000 Z=2.500
+[2024.04.20-13.04.02:168][743]LogPhysics: Warning: Scale for /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_2015878157.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=2.000 Z=2.500
+[2024.04.20-13.04.02:168][743]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.04.20-15.04.02
+[2024.04.20-13.04.02:168][743]LogWorld: Bringing up level for play took: 0.001735
+[2024.04.20-13.04.02:171][743]PIE: Server logged in
+[2024.04.20-13.04.02:172][743]PIE: Play in editor total start time 0.154 seconds.
+[2024.04.20-13.04.23:764][ 34]LogSlate: Window 'BP_TopDownCharacter' being destroyed
+[2024.04.20-13.04.23:768][ 34]LogSlate: Window 'BP_TopDownCharacter' being destroyed
+[2024.04.20-13.04.23:770][ 34]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.04.20-13.04.23:770][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.20-13.04.25:761][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.20-13.04.25:761][151]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.04.20-13.04.25:761][151]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.20-13.04.25:761][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.20-13.04.25:761][151]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.04.20-13.04.25:763][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.20-13.04.25:766][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.20-13.04.25:772][151]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.20-13.04.25:773][151]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.20-13.04.25:773][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.20-13.04.25:774][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.20-13.04.25:777][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.20-13.04.25:780][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.20-13.04.25:839][153]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.04.20-13.04.50:517][625]LogPhysics: Warning: Scale for /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_2015878157.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=2.000 Z=2.500
+[2024.04.20-13.04.50:517][625]LogPhysics: Warning: Scale for /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_2015878157.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=2.000 Z=2.500
+[2024.04.20-13.04.50:518][625]LogPhysics: Warning: Scale for /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_2015878157.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=2.000 Z=2.500
+[2024.04.20-13.04.50:518][625]LogPhysics: Warning: Scale for /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_2015878157.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=2.000 Z=2.500
+[2024.04.20-13.05.04:405][439]LogPhysics: Warning: Scale for /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_1607650147.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=2.000 Z=2.500
+[2024.04.20-13.05.04:406][439]LogPhysics: Warning: Scale for /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_1607650147.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=2.000 Z=2.500
+[2024.04.20-13.05.04:406][439]LogPhysics: Warning: Scale for /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_1607650147.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=2.000 Z=2.500
+[2024.04.20-13.05.04:407][439]LogPhysics: Warning: Scale for /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_1607650147.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=2.000 Z=2.500
+[2024.04.20-13.05.06:513][563]LogPhysics: Warning: Scale for /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_1607650147.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=2.000 Z=2.500
+[2024.04.20-13.05.06:513][563]LogPhysics: Warning: Scale for /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_1607650147.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=2.000 Z=2.500
+[2024.04.20-13.05.06:514][563]LogPhysics: Warning: Scale for /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_1607650147.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=2.000 Z=2.500
+[2024.04.20-13.05.06:514][563]LogPhysics: Warning: Scale for /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_1607650147.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=2.000 Z=2.500
+[2024.04.20-13.05.09:146][720]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.20-13.05.09:148][720]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.20-13.05.09:149][720]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.04.20-13.05.09:150][720]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1 ms (total: 16 ms)
+[2024.04.20-13.05.09:150][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.20-13.05.09:150][720]PIE: New page: PIE session: TopDownMap (Apr 20, 2024, 5:05:09 PM)
+[2024.04.20-13.05.09:150][720]LogPlayLevel: Display: Creating online subsystem for client :Context_21
+[2024.04.20-13.05.09:152][720]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.04.20-13.05.09:166][721]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.04.20-13.05.09:171][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004167s)
+[2024.04.20-13.05.09:171][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.004206s)
+[2024.04.20-13.05.09:178][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.20-13.05.09:180][721]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.20-13.05.09:180][721]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.20-13.05.09:180][721]LogAIModule: Creating AISystem for world TopDownMap
+[2024.04.20-13.05.09:181][721]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.20-13.05.09:181][721]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.20-13.05.09:181][721]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.20-13.05.09:181][721]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.20-13.05.09:182][721]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.04.20-13.05.09:182][721]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 49 ms)
+[2024.04.20-13.05.09:182][721]LogPlayLevel: PIE: World Init took: (0.002049s)
+[2024.04.20-13.05.09:182][721]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.04.20-13.05.09:182][721]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.20-13.05.09:182][721]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.20-13.05.09:182][721]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.20-13.05.09:182][721]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.20-13.05.09:182][721]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.20-13.05.09:182][721]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.20-13.05.09:182][721]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.20-13.05.09:182][721]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.20-13.05.09:182][721]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.20-13.05.09:182][721]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.20-13.05.09:182][721]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.20-13.05.09:184][721]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.20-13.05.09:202][721]LogAudioMixer: Display: Using Audio Hardware Device Virtual Speakers (Virtual Speakers for AudioRelay)
+[2024.04.20-13.05.09:203][721]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.20-13.05.09:203][721]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.20-13.05.09:203][721]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.20-13.05.09:203][721]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.04.20-13.05.09:203][721]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.04.20-13.05.09:205][721]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.04.20-13.05.09:205][721]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.04.20-13.05.09:205][721]LogInit: FAudioDevice initialized with ID 11.
+[2024.04.20-13.05.09:205][721]LogAudio: Display: Audio Device (ID: 11) registered with world 'TopDownMap'.
+[2024.04.20-13.05.09:205][721]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.20-13.05.09:207][721]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.04.20-13.05.09:208][721]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.04.20-15.05.09
+[2024.04.20-13.05.09:208][721]LogWorld: Bringing up level for play took: 0.001213
+[2024.04.20-13.05.09:211][721]PIE: Server logged in
+[2024.04.20-13.05.09:212][721]PIE: Play in editor total start time 0.063 seconds.
+[2024.04.20-13.05.25:784][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.20-13.05.25:784][711]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.04.20-13.05.25:784][711]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.20-13.05.25:785][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.20-13.05.25:785][711]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.04.20-13.05.25:787][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.20-13.05.25:789][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.20-13.05.25:799][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.20-13.05.25:799][711]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.20-13.05.25:799][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.20-13.05.25:801][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.20-13.05.25:806][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.20-13.05.25:861][713]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.04.20-13.06.41:660][871]Cmd: DUPLICATE
+[2024.04.20-13.06.41:660][871]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.06.44:185][ 17]Cmd: DUPLICATE
+[2024.04.20-13.06.44:185][ 17]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.06.47:373][204]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.20-13.06.47:376][204]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.20-13.06.47:376][204]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.04.20-13.06.47:377][204]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1 ms (total: 18 ms)
+[2024.04.20-13.06.47:378][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.20-13.06.47:378][204]PIE: New page: PIE session: TopDownMap (Apr 20, 2024, 5:06:47 PM)
+[2024.04.20-13.06.47:378][204]LogPlayLevel: Display: Creating online subsystem for client :Context_22
+[2024.04.20-13.06.47:379][204]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.04.20-13.06.47:391][205]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.04.20-13.06.47:394][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003542s)
+[2024.04.20-13.06.47:394][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.003583s)
+[2024.04.20-13.06.47:402][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.20-13.06.47:404][205]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.20-13.06.47:404][205]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.20-13.06.47:404][205]LogAIModule: Creating AISystem for world TopDownMap
+[2024.04.20-13.06.47:405][205]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.20-13.06.47:405][205]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.20-13.06.47:405][205]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.20-13.06.47:405][205]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.20-13.06.47:406][205]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.04.20-13.06.47:406][205]LogWorldPartition: Display: WorldPartition initialize took 982 us (total: 50 ms)
+[2024.04.20-13.06.47:406][205]LogPlayLevel: PIE: World Init took: (0.001946s)
+[2024.04.20-13.06.47:406][205]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.04.20-13.06.47:406][205]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.20-13.06.47:406][205]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.20-13.06.47:406][205]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.20-13.06.47:406][205]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.20-13.06.47:406][205]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.20-13.06.47:406][205]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.20-13.06.47:406][205]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.20-13.06.47:406][205]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.20-13.06.47:406][205]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.20-13.06.47:406][205]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.20-13.06.47:406][205]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.20-13.06.47:408][205]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.20-13.06.47:423][205]LogAudioMixer: Display: Using Audio Hardware Device Virtual Speakers (Virtual Speakers for AudioRelay)
+[2024.04.20-13.06.47:423][205]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.20-13.06.47:424][205]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.20-13.06.47:424][205]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.20-13.06.47:424][205]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.04.20-13.06.47:424][205]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.04.20-13.06.47:425][205]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.04.20-13.06.47:425][205]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.04.20-13.06.47:425][205]LogInit: FAudioDevice initialized with ID 12.
+[2024.04.20-13.06.47:425][205]LogAudio: Display: Audio Device (ID: 12) registered with world 'TopDownMap'.
+[2024.04.20-13.06.47:425][205]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.04.20-13.06.47:428][205]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.04.20-13.06.47:429][205]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.04.20-15.06.47
+[2024.04.20-13.06.47:430][205]LogWorld: Bringing up level for play took: 0.001450
+[2024.04.20-13.06.47:433][205]PIE: Server logged in
+[2024.04.20-13.06.47:433][205]PIE: Play in editor total start time 0.058 seconds.
+[2024.04.20-13.07.00:783][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.20-13.07.00:783][  1]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.04.20-13.07.00:783][  1]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.20-13.07.00:783][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.20-13.07.00:783][  1]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.04.20-13.07.00:785][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.20-13.07.00:787][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.20-13.07.00:793][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.20-13.07.00:793][  1]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.04.20-13.07.00:793][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.04.20-13.07.00:795][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.04.20-13.07.00:800][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.20-13.07.00:856][  3]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.04.20-13.07.13:018][722]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.20-13.07.13:021][722]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.20-13.07.13:021][722]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.04.20-13.07.13:022][722]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1 ms (total: 19 ms)
+[2024.04.20-13.07.13:022][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.20-13.07.13:022][722]PIE: New page: PIE session: TopDownMap (Apr 20, 2024, 5:07:13 PM)
+[2024.04.20-13.07.13:023][722]LogPlayLevel: Display: Creating online subsystem for client :Context_23
+[2024.04.20-13.07.13:024][722]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.04.20-13.07.13:036][723]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.04.20-13.07.13:040][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003574s)
+[2024.04.20-13.07.13:040][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.003613s)
+[2024.04.20-13.07.13:046][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.20-13.07.13:048][723]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.20-13.07.13:048][723]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.20-13.07.13:048][723]LogAIModule: Creating AISystem for world TopDownMap
+[2024.04.20-13.07.13:048][723]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.20-13.07.13:048][723]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.20-13.07.13:048][723]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.20-13.07.13:049][723]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.20-13.07.13:049][723]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.04.20-13.07.13:050][723]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 51 ms)
+[2024.04.20-13.07.13:050][723]LogPlayLevel: PIE: World Init took: (0.001951s)
+[2024.04.20-13.07.13:050][723]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.04.20-13.07.13:050][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.20-13.07.13:050][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.20-13.07.13:050][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.20-13.07.13:050][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.20-13.07.13:050][723]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.20-13.07.13:050][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.20-13.07.13:050][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.20-13.07.13:050][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.20-13.07.13:050][723]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.20-13.07.13:050][723]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.20-13.07.13:050][723]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.20-13.07.13:051][723]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.20-13.07.13:066][723]LogAudioMixer: Display: Using Audio Hardware Device Virtual Speakers (Virtual Speakers for AudioRelay)
+[2024.04.20-13.07.13:066][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.20-13.07.13:066][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.20-13.07.13:066][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.20-13.07.13:067][723]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.04.20-13.07.13:067][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.04.20-13.07.13:068][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.04.20-13.07.13:068][723]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.04.20-13.07.13:068][723]LogInit: FAudioDevice initialized with ID 13.
+[2024.04.20-13.07.13:068][723]LogAudio: Display: Audio Device (ID: 13) registered with world 'TopDownMap'.
+[2024.04.20-13.07.13:068][723]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.20-13.07.13:070][723]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.04.20-13.07.13:072][723]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.04.20-15.07.13
+[2024.04.20-13.07.13:072][723]LogWorld: Bringing up level for play took: 0.001262
+[2024.04.20-13.07.13:075][723]PIE: Server logged in
+[2024.04.20-13.07.13:075][723]PIE: Play in editor total start time 0.055 seconds.
+[2024.04.20-13.07.26:715][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.20-13.07.26:716][536]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.04.20-13.07.26:716][536]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.20-13.07.26:716][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.20-13.07.26:716][536]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.04.20-13.07.26:719][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.20-13.07.26:720][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.20-13.07.26:729][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.20-13.07.26:729][536]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.20-13.07.26:730][536]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.20-13.07.26:731][536]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.20-13.07.26:736][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.20-13.07.26:795][538]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.04.20-13.07.58:806][428]Cmd: MODE GRID=0
+[2024.04.20-13.08.02:167][629]Cmd: MODE GRID=1
+[2024.04.20-13.08.04:842][789]Cmd: MODE ROTGRID=0
+[2024.04.20-13.08.05:608][835]Cmd: MODE ROTGRID=1
+[2024.04.20-13.08.06:075][863]Cmd: MODE ROTGRID=0
+[2024.04.20-13.08.08:936][ 34]Cmd: MODE ROTGRID=1
+[2024.04.20-13.08.09:352][ 59]Cmd: MODE SCALEGRID=0
+[2024.04.20-13.08.12:195][227]Cmd: MODE ROTGRID=0
+[2024.04.20-13.08.13:163][285]Cmd: MODE ROTGRID=1
+[2024.04.20-13.08.13:497][305]Cmd: MODE SCALEGRID=1
+[2024.04.20-13.08.15:751][439]Cmd: MODE SCALEGRID=0
+[2024.04.20-13.09.31:469][920]Cmd: DUPLICATE
+[2024.04.20-13.09.31:469][920]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.09.49:875][  6]Cmd: MODE GRID=0
+[2024.04.20-13.10.20:112][776]Cmd: DUPLICATE
+[2024.04.20-13.10.20:112][776]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.11.16:368][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.20-13.11.16:394][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/8J/7P2E8YJR5RDL9BAFAK1O8D
+[2024.04.20-13.11.16:395][ 77]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/7P2E8YJR5RDL9BAFAK1O8D20F7CBC540B2174F4CCDFEBC2CF238AE.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/8J/7P2E8YJR5RDL9BAFAK1O8D.uasset'
+[2024.04.20-13.11.16:396][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/JX/GADG0CO94KFHIO3MJKOS4V
+[2024.04.20-13.11.16:396][ 77]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/GADG0CO94KFHIO3MJKOS4VDD472CDF4C297645722B04B4CC0EA358.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/JX/GADG0CO94KFHIO3MJKOS4V.uasset'
+[2024.04.20-13.11.16:397][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/9K/I12OF6EBGVOWEK9XFWN3Y9
+[2024.04.20-13.11.16:397][ 77]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/I12OF6EBGVOWEK9XFWN3Y9A6A348A94C7EC112B3D13F90ACFFC49A.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/9K/I12OF6EBGVOWEK9XFWN3Y9.uasset'
+[2024.04.20-13.11.16:398][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/O6/HTIIZ207NZJJJFPUU913NI
+[2024.04.20-13.11.16:399][ 77]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/HTIIZ207NZJJJFPUU913NIB8877EB44784E703A4E239ADF26A5F52.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/O6/HTIIZ207NZJJJFPUU913NI.uasset'
+[2024.04.20-13.11.16:400][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/TI/7UORXCSBB7ZX0OIYIKLIDM
+[2024.04.20-13.11.16:400][ 77]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/7UORXCSBB7ZX0OIYIKLIDM20D5DBB84B24B6F51C5CCA8E55D48448.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/TI/7UORXCSBB7ZX0OIYIKLIDM.uasset'
+[2024.04.20-13.11.16:401][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/ZN/KG0Z6MDQE4GMR5BG91PHCB
+[2024.04.20-13.11.16:401][ 77]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/KG0Z6MDQE4GMR5BG91PHCB09B65F654D4D1EC728A7EAA942529B88.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/ZN/KG0Z6MDQE4GMR5BG91PHCB.uasset'
+[2024.04.20-13.11.16:402][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/ME/L3W88OM8K6697LR9FEU1IE
+[2024.04.20-13.11.16:402][ 77]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/L3W88OM8K6697LR9FEU1IEE36FC9FB42AFFF5CBE6FC99C08E369B4.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/ME/L3W88OM8K6697LR9FEU1IE.uasset'
+[2024.04.20-13.11.16:404][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/KU/Z26FEZXVTO3NZMX2V6XMZ3
+[2024.04.20-13.11.16:404][ 77]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Z26FEZXVTO3NZMX2V6XMZ398FBC0994F32F86B085C67B52B5D9E39.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/KU/Z26FEZXVTO3NZMX2V6XMZ3.uasset'
+[2024.04.20-13.11.16:405][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/M8/ZKS67EZMJRT30PBSBJ1CDZ
+[2024.04.20-13.11.16:405][ 77]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/ZKS67EZMJRT30PBSBJ1CDZD15523024DCBF74FEAC583928AA71C34.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/M8/ZKS67EZMJRT30PBSBJ1CDZ.uasset'
+[2024.04.20-13.11.16:406][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/TD/8DV8EKA9WDMDI9N5HMQTDY
+[2024.04.20-13.11.16:406][ 77]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/8DV8EKA9WDMDI9N5HMQTDY9FD7A36E41062FB0BE8660A26C2D9DDF.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/TD/8DV8EKA9WDMDI9N5HMQTDY.uasset'
+[2024.04.20-13.11.16:407][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/BA/6SKJD5GA9HDYCOPEFI0GJ0
+[2024.04.20-13.11.16:408][ 77]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/6SKJD5GA9HDYCOPEFI0GJ0350004C04130ECDE755D6A99ADDE57E0.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/BA/6SKJD5GA9HDYCOPEFI0GJ0.uasset'
+[2024.04.20-13.11.16:409][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/FR/R33ZH9WMA7O5RBHQY9L3NL
+[2024.04.20-13.11.16:409][ 77]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/R33ZH9WMA7O5RBHQY9L3NLA5EB21EC46779D6DA8882EA2EBD0FCDE.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/FR/R33ZH9WMA7O5RBHQY9L3NL.uasset'
+[2024.04.20-13.11.16:410][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/3P/BZQ1621K9APK8D2VUC0O2V
+[2024.04.20-13.11.16:410][ 77]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/BZQ1621K9APK8D2VUC0O2V88ACA56148C7E765412934B695FB29A8.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/3P/BZQ1621K9APK8D2VUC0O2V.uasset'
+[2024.04.20-13.11.16:411][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/W8/GUAEQT0F18GWO5SDW6RX5K
+[2024.04.20-13.11.16:411][ 77]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/GUAEQT0F18GWO5SDW6RX5KDF37B419420FB5EC5C0EF2BDB267380C.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/W8/GUAEQT0F18GWO5SDW6RX5K.uasset'
+[2024.04.20-13.11.16:413][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/H3/O4DEJGT9PVL8NRCWB39N3L
+[2024.04.20-13.11.16:413][ 77]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/O4DEJGT9PVL8NRCWB39N3LDCBE039840F7D00870A847BCD9D6E57A.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/H3/O4DEJGT9PVL8NRCWB39N3L.uasset'
+[2024.04.20-13.11.16:415][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/5I/564P0YEY69442UD55811ZF
+[2024.04.20-13.11.16:415][ 77]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/564P0YEY69442UD55811ZFADAFC6664B7C3EF4CB3B9F91C57D4DC4.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/5I/564P0YEY69442UD55811ZF.uasset'
+[2024.04.20-13.11.16:416][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/HU/IG8GY1DYIZKQNCIFR02YHB
+[2024.04.20-13.11.16:416][ 77]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/IG8GY1DYIZKQNCIFR02YHBF6F849664BFFF8F5911E40A86FB9DA79.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/HU/IG8GY1DYIZKQNCIFR02YHB.uasset'
+[2024.04.20-13.11.16:417][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/TT/VXNQYTPM260EMXAHHNJHQL
+[2024.04.20-13.11.16:417][ 77]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/VXNQYTPM260EMXAHHNJHQL5D92860E4D7889AEBD3732A1D2CEC448.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/TT/VXNQYTPM260EMXAHHNJHQL.uasset'
+[2024.04.20-13.11.16:428][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 906 ms)
+[2024.04.20-13.11.16:432][ 77]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.20-13.11.16:432][ 77]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_BC0FF35E7470B5ED01_1954683292
+[2024.04.20-13.11.16:432][ 77]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_BC0FF35E7470B5ED01_1789481287
+[2024.04.20-13.11.16:432][ 77]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_BC0FF35E7470B5ED01_1810182290
+[2024.04.20-13.11.16:432][ 77]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_BC0FF35E7470B5ED01_1789492288
+[2024.04.20-13.11.16:432][ 77]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_BC0FF35E7470B5ED01_2025501298
+[2024.04.20-13.11.16:432][ 77]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_BC0FF35E7470B2ED01_2025432766
+[2024.04.20-13.11.16:432][ 77]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_BC0FF35E7470B5ED01_1961187293
+[2024.04.20-13.11.16:432][ 77]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_2012381156
+[2024.04.20-13.11.16:432][ 77]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_1992220155
+[2024.04.20-13.11.16:432][ 77]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_1986084154
+[2024.04.20-13.11.16:432][ 77]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_2015878157
+[2024.04.20-13.11.16:432][ 77]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_1443127145
+[2024.04.20-13.11.16:432][ 77]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_1730237152
+[2024.04.20-13.11.16:432][ 77]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_1607650147
+[2024.04.20-13.11.16:432][ 77]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFFED01_1263113334
+[2024.04.20-13.11.16:432][ 77]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFFED01_1265638335
+[2024.04.20-13.11.16:432][ 77]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFFED01_1432922336
+[2024.04.20-13.11.16:432][ 77]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFFED01_1481566337
+[2024.04.20-13.12.26:007][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.20-13.12.26:011][  6]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/M8/ZKS67EZMJRT30PBSBJ1CDZ_Auto2
+[2024.04.20-13.12.26:011][  6]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/ZKS67EZMJRT30PBSBJ1CDZ_Auto293FBAE4D484D4F5CAFC327A2BFA384C9.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/M8/ZKS67EZMJRT30PBSBJ1CDZ_Auto2.uasset'
+[2024.04.20-13.12.26:012][  6]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/H3/O4DEJGT9PVL8NRCWB39N3L_Auto2
+[2024.04.20-13.12.26:012][  6]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/O4DEJGT9PVL8NRCWB39N3L_Auto2958E62EF4D293EAD06DD5FA3130D0FED.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/H3/O4DEJGT9PVL8NRCWB39N3L_Auto2.uasset'
+[2024.04.20-13.12.26:012][  6]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.016
+[2024.04.20-13.12.26:012][  6]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.016
+[2024.04.20-13.12.26:013][  6]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/MI_Solid_Yelloz] ([1] browsable assets)...
+[2024.04.20-13.12.26:013][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_Solid_Yelloz]
+[2024.04.20-13.12.26:013][  6]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Materials/MI_Solid_Yelloz_Auto2
+[2024.04.20-13.12.26:013][  6]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/MI_Solid_Yelloz_Auto261BF91514434B63F0DF232BC82F437B6.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/LevelPrototyping/Materials/MI_Solid_Yelloz_Auto2.uasset'
+[2024.04.20-13.12.26:013][  6]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/MI_Solid_Pink] ([1] browsable assets)...
+[2024.04.20-13.12.26:013][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_Solid_Pink]
+[2024.04.20-13.12.26:014][  6]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Materials/MI_Solid_Pink_Auto2
+[2024.04.20-13.12.26:014][  6]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/MI_Solid_Pink_Auto29C61CFF941504ED051EBB1B82C87D172.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/LevelPrototyping/Materials/MI_Solid_Pink_Auto2.uasset'
+[2024.04.20-13.12.26:015][  6]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Maps/_GENERATED/PC/Merge_5E343C1B] ([1] browsable assets)...
+[2024.04.20-13.12.26:015][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Maps/_GENERATED/PC/Merge_5E343C1B]
+[2024.04.20-13.12.26:017][  6]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Maps/_GENERATED/PC/Merge_5E343C1B_Auto2
+[2024.04.20-13.12.26:017][  6]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Merge_5E343C1B_Auto20403A96449497A2DB8D69D931E2A1F69.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/TopDown/Maps/_GENERATED/PC/Merge_5E343C1B_Auto2.uasset'
+[2024.04.20-13.12.26:018][  6]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.04.20-13.16.49:694][117]Cmd: DUPLICATE
+[2024.04.20-13.16.49:694][117]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.16.56:362][503]Cmd: DUPLICATE
+[2024.04.20-13.16.56:362][503]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.17.02:696][875]Cmd: TRANSACTION UNDO
+[2024.04.20-13.17.02:696][875]LogEditorTransaction: Undo Rotate Elements
+[2024.04.20-13.17.06:480][ 83]Cmd: TRANSACTION UNDO
+[2024.04.20-13.17.06:480][ 83]LogEditorTransaction: Undo Rotate Elements
+[2024.04.20-13.17.12:979][458]Cmd: TRANSACTION UNDO
+[2024.04.20-13.17.12:979][458]LogEditorTransaction: Undo Rotate Elements
+[2024.04.20-13.17.15:500][597]Cmd: TRANSACTION UNDO
+[2024.04.20-13.17.15:500][597]LogEditorTransaction: Undo Rotate Elements
+[2024.04.20-13.17.19:931][862]Cmd: TRANSACTION UNDO
+[2024.04.20-13.17.19:931][862]LogEditorTransaction: Undo Rotate Elements
+[2024.04.20-13.17.20:298][876]Cmd: TRANSACTION UNDO
+[2024.04.20-13.17.20:298][876]LogEditorTransaction: Undo Rotate Elements
+[2024.04.20-13.17.26:348][230]Cmd: TRANSACTION UNDO
+[2024.04.20-13.17.26:348][230]LogEditorTransaction: Undo Rotate Elements
+[2024.04.20-13.17.27:026][260]Cmd: TRANSACTION UNDO
+[2024.04.20-13.17.27:026][260]LogEditorTransaction: Undo Rotate Elements
+[2024.04.20-13.17.32:600][594]Cmd: MODE ROTGRID=0
+[2024.04.20-13.17.34:376][700]Cmd: TRANSACTION UNDO
+[2024.04.20-13.17.34:376][700]LogEditorTransaction: Undo Rotate Elements
+[2024.04.20-13.17.35:951][783]Cmd: MODE ROTGRID=1
+[2024.04.20-13.17.36:957][843]LogViewport: Scene viewport resized to 538x443, mode Windowed.
+[2024.04.20-13.17.36:973][843]LogViewport: Scene viewport resized to 538x443, mode Windowed.
+[2024.04.20-13.17.37:005][843]LogViewport: Scene viewport resized to 538x444, mode Windowed.
+[2024.04.20-13.17.37:031][843]LogViewport: Scene viewport resized to 934x771, mode Windowed.
+[2024.04.20-13.17.37:063][844]LogViewport: Scene viewport resized to 566x466, mode Windowed.
+[2024.04.20-13.17.37:098][845]LogViewport: Scene viewport resized to 542x447, mode Windowed.
+[2024.04.20-13.17.37:131][846]LogViewport: Scene viewport resized to 538x444, mode Windowed.
+[2024.04.20-13.17.38:111][903]LogViewport: Scene viewport resized to 717x591, mode Windowed.
+[2024.04.20-13.17.38:128][904]LogViewport: Scene viewport resized to 831x685, mode Windowed.
+[2024.04.20-13.17.38:144][905]LogViewport: Scene viewport resized to 929x766, mode Windowed.
+[2024.04.20-13.17.38:161][906]LogViewport: Scene viewport resized to 994x820, mode Windowed.
+[2024.04.20-13.17.38:178][907]LogViewport: Scene viewport resized to 1037x856, mode Windowed.
+[2024.04.20-13.17.38:194][908]LogViewport: Scene viewport resized to 1063x877, mode Windowed.
+[2024.04.20-13.17.38:211][909]LogViewport: Scene viewport resized to 1076x888, mode Windowed.
+[2024.04.20-13.17.38:228][910]LogViewport: Scene viewport resized to 1080x892, mode Windowed.
+[2024.04.20-13.17.38:244][911]LogViewport: Scene viewport resized to 1081x892, mode Windowed.
+[2024.04.20-13.17.38:679][937]LogViewport: Scene viewport resized to 943x778, mode Windowed.
+[2024.04.20-13.17.38:695][938]LogViewport: Scene viewport resized to 846x698, mode Windowed.
+[2024.04.20-13.17.38:711][939]LogViewport: Scene viewport resized to 764x630, mode Windowed.
+[2024.04.20-13.17.38:733][940]LogViewport: Scene viewport resized to 693x572, mode Windowed.
+[2024.04.20-13.17.38:747][941]LogViewport: Scene viewport resized to 640x528, mode Windowed.
+[2024.04.20-13.17.38:762][942]LogViewport: Scene viewport resized to 603x497, mode Windowed.
+[2024.04.20-13.17.38:782][943]LogViewport: Scene viewport resized to 575x474, mode Windowed.
+[2024.04.20-13.17.38:795][944]LogViewport: Scene viewport resized to 557x459, mode Windowed.
+[2024.04.20-13.17.38:811][945]LogViewport: Scene viewport resized to 546x450, mode Windowed.
+[2024.04.20-13.17.38:827][946]LogViewport: Scene viewport resized to 540x445, mode Windowed.
+[2024.04.20-13.17.38:844][947]LogViewport: Scene viewport resized to 538x444, mode Windowed.
+[2024.04.20-13.17.38:861][948]LogViewport: Scene viewport resized to 538x443, mode Windowed.
+[2024.04.20-13.17.39:772][  0]LogViewport: Scene viewport resized to 712x587, mode Windowed.
+[2024.04.20-13.17.39:873][  1]LogViewport: Scene viewport resized to 1076x888, mode Windowed.
+[2024.04.20-13.17.39:916][  2]LogViewport: Scene viewport resized to 1081x892, mode Windowed.
+[2024.04.20-13.17.44:078][250]LogViewport: Scene viewport resized to 1411x892, mode Windowed.
+[2024.04.20-13.17.56:068][958]Cmd: TRANSACTION UNDO
+[2024.04.20-13.17.56:068][958]LogEditorTransaction: Undo Rotate Elements
+[2024.04.20-13.17.59:392][144]Cmd: TRANSACTION UNDO
+[2024.04.20-13.17.59:392][144]LogEditorTransaction: Undo Rotate Elements
+[2024.04.20-13.18.00:363][201]Cmd: MODE GRID=1
+[2024.04.20-13.18.02:125][306]Cmd: TRANSACTION UNDO
+[2024.04.20-13.18.02:125][306]LogEditorTransaction: Undo Rotate Elements
+[2024.04.20-13.18.02:909][343]Cmd: MODE GRID=0
+[2024.04.20-13.18.11:421][841]Cmd: TRANSACTION UNDO
+[2024.04.20-13.18.11:421][841]LogEditorTransaction: Undo Rotate Elements
+[2024.04.20-13.18.17:767][197]Cmd: TRANSACTION UNDO
+[2024.04.20-13.18.17:767][197]LogEditorTransaction: Undo Rotate Elements
+[2024.04.20-13.18.46:869][879]Cmd: DUPLICATE
+[2024.04.20-13.18.46:869][879]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.18.55:193][367]Cmd: DUPLICATE
+[2024.04.20-13.18.55:193][367]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.18.57:949][525]Cmd: DUPLICATE
+[2024.04.20-13.18.57:949][525]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.22.24:867][371]LogWindowsTextInputMethodSystem: Activated input method: French (France) - (Keyboard).
+[2024.04.20-13.22.24:867][371]LogWindowsTextInputMethodSystem: Activated input method: French (France) - (Keyboard).
+[2024.04.20-13.22.27:833][544]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.04.20-13.22.27:834][544]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.04.20-13.22.35:008][955]Cmd: DUPLICATE
+[2024.04.20-13.22.35:008][955]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.22.39:625][218]Cmd: DUPLICATE
+[2024.04.20-13.22.39:625][218]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.22.41:082][299]Cmd: DUPLICATE
+[2024.04.20-13.22.41:082][299]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.22.44:663][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.20-13.22.44:666][502]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/M8/ZKS67EZMJRT30PBSBJ1CDZ_Auto3
+[2024.04.20-13.22.44:666][502]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/ZKS67EZMJRT30PBSBJ1CDZ_Auto31A8B9C89453921E66241FD8B3866EF36.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/M8/ZKS67EZMJRT30PBSBJ1CDZ_Auto3.uasset'
+[2024.04.20-13.22.44:668][502]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/BA/6SKJD5GA9HDYCOPEFI0GJ0_Auto3
+[2024.04.20-13.22.44:668][502]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/6SKJD5GA9HDYCOPEFI0GJ0_Auto39DC016E44B2382A12B4371AC194654B6.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/BA/6SKJD5GA9HDYCOPEFI0GJ0_Auto3.uasset'
+[2024.04.20-13.22.44:669][502]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/W8/GUAEQT0F18GWO5SDW6RX5K_Auto3
+[2024.04.20-13.22.44:669][502]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/GUAEQT0F18GWO5SDW6RX5K_Auto303C050F94296CF3A9C258282C6253F9C.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/W8/GUAEQT0F18GWO5SDW6RX5K_Auto3.uasset'
+[2024.04.20-13.22.44:670][502]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/H3/O4DEJGT9PVL8NRCWB39N3L_Auto3
+[2024.04.20-13.22.44:670][502]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/O4DEJGT9PVL8NRCWB39N3L_Auto372BDD68D4073154FB25A978A50221680.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/H3/O4DEJGT9PVL8NRCWB39N3L_Auto3.uasset'
+[2024.04.20-13.22.44:671][502]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/7W/4WF9SH0TYYQKYUSI7SWK94_Auto3
+[2024.04.20-13.22.44:671][502]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/4WF9SH0TYYQKYUSI7SWK94_Auto3B43201DC433FE765886FFABDE7AD5DCA.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/7W/4WF9SH0TYYQKYUSI7SWK94_Auto3.uasset'
+[2024.04.20-13.22.44:672][502]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/AU/L5QSGFL41ON3BG465BQ0K8_Auto3
+[2024.04.20-13.22.44:672][502]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/L5QSGFL41ON3BG465BQ0K8_Auto31493D51A4B02BCA269732F898CC838E1.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/AU/L5QSGFL41ON3BG465BQ0K8_Auto3.uasset'
+[2024.04.20-13.22.44:673][502]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/RN/C26BOIMOXRMSTKO6R8TF5K_Auto3
+[2024.04.20-13.22.44:673][502]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/C26BOIMOXRMSTKO6R8TF5K_Auto34CEF766345E929EB628D79AADB39E836.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/RN/C26BOIMOXRMSTKO6R8TF5K_Auto3.uasset'
+[2024.04.20-13.22.44:674][502]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/O3/XMN7V25ZW3SXGTE3OHZREB_Auto3
+[2024.04.20-13.22.44:674][502]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/XMN7V25ZW3SXGTE3OHZREB_Auto3DE9CF3E94A1CD9ECAD4A5EB991F20669.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/O3/XMN7V25ZW3SXGTE3OHZREB_Auto3.uasset'
+[2024.04.20-13.22.44:675][502]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/4H/D2P6FTPY9LI83SKZ50725B_Auto3
+[2024.04.20-13.22.44:675][502]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/D2P6FTPY9LI83SKZ50725B_Auto37C778433405B2D9736BA66B2E8B8723F.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/4H/D2P6FTPY9LI83SKZ50725B_Auto3.uasset'
+[2024.04.20-13.22.44:676][502]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/VB/TN33T5AS7Q0H36IO93FGBT_Auto3
+[2024.04.20-13.22.44:676][502]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/TN33T5AS7Q0H36IO93FGBT_Auto32DB353D449CEEBB4EEC3168915D83607.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/VB/TN33T5AS7Q0H36IO93FGBT_Auto3.uasset'
+[2024.04.20-13.22.44:677][502]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/4S/D91QUP6TD4U2ZOHCUDP7BL_Auto3
+[2024.04.20-13.22.44:677][502]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/D91QUP6TD4U2ZOHCUDP7BL_Auto38BE201254310A8DA5DBB1687E0FB880B.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/4S/D91QUP6TD4U2ZOHCUDP7BL_Auto3.uasset'
+[2024.04.20-13.22.44:678][502]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/XP/E6G2FQQ0XNQTUTI7ITGX98_Auto3
+[2024.04.20-13.22.44:679][502]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/E6G2FQQ0XNQTUTI7ITGX98_Auto31EE10EA74D47E3F267A16FAFD598981C.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/XP/E6G2FQQ0XNQTUTI7ITGX98_Auto3.uasset'
+[2024.04.20-13.22.44:679][502]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.034
+[2024.04.20-13.22.44:679][502]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2024.04.20-13.22.44:679][502]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/MI_Solid_Yelloz] ([1] browsable assets)...
+[2024.04.20-13.22.44:679][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_Solid_Yelloz]
+[2024.04.20-13.22.44:680][502]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Materials/MI_Solid_Yelloz_Auto3
+[2024.04.20-13.22.44:680][502]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/MI_Solid_Yelloz_Auto3CEA355F14782D99C098E39B716ABCB64.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/LevelPrototyping/Materials/MI_Solid_Yelloz_Auto3.uasset'
+[2024.04.20-13.22.44:680][502]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/MI_Solid_Pink] ([1] browsable assets)...
+[2024.04.20-13.22.44:680][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_Solid_Pink]
+[2024.04.20-13.22.44:681][502]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Materials/MI_Solid_Pink_Auto3
+[2024.04.20-13.22.44:681][502]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/MI_Solid_Pink_Auto35F7809D340332A6ECDE809B3FBAE0494.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/LevelPrototyping/Materials/MI_Solid_Pink_Auto3.uasset'
+[2024.04.20-13.22.44:681][502]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Maps/_GENERATED/PC/Merge_5E343C1B] ([1] browsable assets)...
+[2024.04.20-13.22.44:681][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Maps/_GENERATED/PC/Merge_5E343C1B]
+[2024.04.20-13.22.44:683][502]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Maps/_GENERATED/PC/Merge_5E343C1B_Auto3
+[2024.04.20-13.22.44:683][502]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Merge_5E343C1B_Auto3F25CF13947F279381623219E052BD248.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/TopDown/Maps/_GENERATED/PC/Merge_5E343C1B_Auto3.uasset'
+[2024.04.20-13.22.44:683][502]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.04.20-13.23.07:018][826]Cmd: DUPLICATE
+[2024.04.20-13.23.07:019][826]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.23.10:544][ 22]Cmd: DUPLICATE
+[2024.04.20-13.23.10:544][ 22]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.23.17:940][446]Cmd: DELETE
+[2024.04.20-13.23.17:940][446]Cmd: ACTOR DELETE
+[2024.04.20-13.23.17:942][446]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.20-13.23.17:949][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.20-13.23.17:951][446]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.04.20-13.23.27:269][980]Cmd: TRANSACTION UNDO
+[2024.04.20-13.23.27:269][980]LogEditorTransaction: Undo Move Elements
+[2024.04.20-13.23.28:571][ 44]Cmd: DUPLICATE
+[2024.04.20-13.23.28:571][ 44]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.23.49:529][265]Cmd: DUPLICATE
+[2024.04.20-13.23.49:529][265]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.23.49:529][265]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2024.04.20-13.24.10:543][492]Cmd: DUPLICATE
+[2024.04.20-13.24.10:543][492]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.24.38:221][ 90]Cmd: DUPLICATE
+[2024.04.20-13.24.38:221][ 90]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.24.43:277][390]Cmd: DUPLICATE
+[2024.04.20-13.24.43:277][390]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.24.44:588][465]Cmd: DUPLICATE
+[2024.04.20-13.24.44:588][465]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.25.01:885][474]Cmd: DUPLICATE
+[2024.04.20-13.25.01:885][474]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.25.12:407][ 91]Cmd: DUPLICATE
+[2024.04.20-13.25.12:407][ 91]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.25.58:652][768]Cmd: DELETE
+[2024.04.20-13.25.58:652][768]Cmd: ACTOR DELETE
+[2024.04.20-13.25.58:653][768]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.20-13.25.58:661][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.20-13.25.58:663][768]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.04.20-13.26.08:849][367]Cmd: DELETE
+[2024.04.20-13.26.08:849][367]Cmd: ACTOR DELETE
+[2024.04.20-13.26.08:850][367]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.20-13.26.08:857][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.04.20-13.26.08:860][367]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.04.20-13.26.12:476][564]Cmd: DUPLICATE
+[2024.04.20-13.26.12:476][564]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.26.42:905][326]Cmd: TRANSACTION UNDO
+[2024.04.20-13.26.42:905][326]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.20-13.26.43:561][349]Cmd: TRANSACTION UNDO
+[2024.04.20-13.26.43:561][349]LogEditorTransaction: Undo Move Elements
+[2024.04.20-13.27.02:371][440]Cmd: DUPLICATE
+[2024.04.20-13.27.02:371][440]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.27.04:890][587]Cmd: TRANSACTION UNDO
+[2024.04.20-13.27.04:891][587]LogEditorTransaction: Undo Duplicate Elements
+[2024.04.20-13.27.08:052][752]Cmd: DUPLICATE
+[2024.04.20-13.27.08:052][752]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.27.20:954][490]Cmd: DUPLICATE
+[2024.04.20-13.27.20:954][490]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.27.31:414][ 95]Cmd: DUPLICATE
+[2024.04.20-13.27.31:414][ 95]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.28.34:566][807]Cmd: DUPLICATE
+[2024.04.20-13.28.34:566][807]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.28.36:233][900]Cmd: DUPLICATE
+[2024.04.20-13.28.36:233][900]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.28.43:039][290]Cmd: DUPLICATE
+[2024.04.20-13.28.43:039][290]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.28.48:934][621]Cmd: DUPLICATE
+[2024.04.20-13.28.48:934][621]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.29.26:945][823]Cmd: DUPLICATE
+[2024.04.20-13.29.26:945][823]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.29.57:068][583]Cmd: TRANSACTION UNDO
+[2024.04.20-13.29.57:068][583]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.20-13.29.57:333][589]Cmd: TRANSACTION UNDO
+[2024.04.20-13.29.57:333][589]LogEditorTransaction: Undo Scale Elements
+[2024.04.20-13.29.57:892][616]Cmd: TRANSACTION UNDO
+[2024.04.20-13.29.57:892][616]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.20-13.29.58:858][672]Cmd: TRANSACTION UNDO
+[2024.04.20-13.29.58:859][672]LogEditorTransaction: Undo Move Elements
+[2024.04.20-13.30.09:674][294]Cmd: DUPLICATE
+[2024.04.20-13.30.09:674][294]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.30.22:570][ 49]Cmd: DUPLICATE
+[2024.04.20-13.30.22:570][ 49]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.30.39:438][ 23]Cmd: DUPLICATE
+[2024.04.20-13.30.39:438][ 23]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.30.44:176][291]Cmd: DUPLICATE
+[2024.04.20-13.30.44:176][291]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.31.06:817][621]Cmd: DUPLICATE
+[2024.04.20-13.31.06:817][621]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.31.12:452][952]Cmd: DUPLICATE
+[2024.04.20-13.31.12:452][952]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.32.45:153][488]LogWorldPartition: Actor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1410082536 is unreachable without properly detaching object /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/XY/WZTAXKGRFZINXO20D9MXLA.PackageMetaData in its package
+[2024.04.20-13.32.45:154][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.20-13.32.45:157][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/N0/H4XYQ1M82APWV5G3IGPGM4_Auto4
+[2024.04.20-13.32.45:157][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/H4XYQ1M82APWV5G3IGPGM4_Auto444965D2E415F51362E53E3BFD7CDD0B6.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/N0/H4XYQ1M82APWV5G3IGPGM4_Auto4.uasset'
+[2024.04.20-13.32.45:159][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/ZX/BYM4CZZPBM2ZFW0HMGVW1I_Auto4
+[2024.04.20-13.32.45:159][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/BYM4CZZPBM2ZFW0HMGVW1I_Auto473E118B348EE674B1F62448EF3E3178A.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/ZX/BYM4CZZPBM2ZFW0HMGVW1I_Auto4.uasset'
+[2024.04.20-13.32.45:159][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/RR/1R5LAPNERFWRYEGPFFO0BU_Auto4
+[2024.04.20-13.32.45:159][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/1R5LAPNERFWRYEGPFFO0BU_Auto43C4C6A674010791192CFF2B9043912A6.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/RR/1R5LAPNERFWRYEGPFFO0BU_Auto4.uasset'
+[2024.04.20-13.32.45:161][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/1Q/INN00EJVWRLJLN5YZUZNT2_Auto4
+[2024.04.20-13.32.45:161][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/INN00EJVWRLJLN5YZUZNT2_Auto445BE4B2A4D45A16CCE08C68DF2BADFC6.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/1Q/INN00EJVWRLJLN5YZUZNT2_Auto4.uasset'
+[2024.04.20-13.32.45:162][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/06/GGVMWHOIXUED0LCETUJXG1_Auto4
+[2024.04.20-13.32.45:162][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/GGVMWHOIXUED0LCETUJXG1_Auto479DD5D5D40C88776FFBEE79712833CC0.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/06/GGVMWHOIXUED0LCETUJXG1_Auto4.uasset'
+[2024.04.20-13.32.45:163][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/M8/ZKS67EZMJRT30PBSBJ1CDZ_Auto4
+[2024.04.20-13.32.45:163][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/ZKS67EZMJRT30PBSBJ1CDZ_Auto472FB5C304977DC2B6BCADBA82BD792B8.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/M8/ZKS67EZMJRT30PBSBJ1CDZ_Auto4.uasset'
+[2024.04.20-13.32.45:164][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/BA/6SKJD5GA9HDYCOPEFI0GJ0_Auto4
+[2024.04.20-13.32.45:164][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/6SKJD5GA9HDYCOPEFI0GJ0_Auto428075A64421219F173B5F0A97B482600.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/BA/6SKJD5GA9HDYCOPEFI0GJ0_Auto4.uasset'
+[2024.04.20-13.32.45:165][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/W8/GUAEQT0F18GWO5SDW6RX5K_Auto4
+[2024.04.20-13.32.45:165][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/GUAEQT0F18GWO5SDW6RX5K_Auto49D8D1BB148B1AF0A09B1E0BD4DFA82C5.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/W8/GUAEQT0F18GWO5SDW6RX5K_Auto4.uasset'
+[2024.04.20-13.32.45:167][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/H3/O4DEJGT9PVL8NRCWB39N3L_Auto4
+[2024.04.20-13.32.45:167][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/O4DEJGT9PVL8NRCWB39N3L_Auto46F2F4C304D17C8DF7F11D995BADB88A7.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/H3/O4DEJGT9PVL8NRCWB39N3L_Auto4.uasset'
+[2024.04.20-13.32.45:168][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/7W/4WF9SH0TYYQKYUSI7SWK94_Auto4
+[2024.04.20-13.32.45:168][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/4WF9SH0TYYQKYUSI7SWK94_Auto40BEDB4FF49D4F78646B1D9B7E6085944.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/7W/4WF9SH0TYYQKYUSI7SWK94_Auto4.uasset'
+[2024.04.20-13.32.45:169][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/AU/L5QSGFL41ON3BG465BQ0K8_Auto4
+[2024.04.20-13.32.45:169][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/L5QSGFL41ON3BG465BQ0K8_Auto47751DD7645139EB7BF1112B3DB476B69.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/AU/L5QSGFL41ON3BG465BQ0K8_Auto4.uasset'
+[2024.04.20-13.32.45:169][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/RN/C26BOIMOXRMSTKO6R8TF5K_Auto4
+[2024.04.20-13.32.45:169][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/C26BOIMOXRMSTKO6R8TF5K_Auto4C3715DBD4EC70D43B138B6A9295DF445.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/RN/C26BOIMOXRMSTKO6R8TF5K_Auto4.uasset'
+[2024.04.20-13.32.45:171][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/O3/XMN7V25ZW3SXGTE3OHZREB_Auto4
+[2024.04.20-13.32.45:171][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/XMN7V25ZW3SXGTE3OHZREB_Auto464B6401F47AEA2799D726D9F92C1DBB1.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/O3/XMN7V25ZW3SXGTE3OHZREB_Auto4.uasset'
+[2024.04.20-13.32.45:172][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/4H/D2P6FTPY9LI83SKZ50725B_Auto4
+[2024.04.20-13.32.45:172][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/D2P6FTPY9LI83SKZ50725B_Auto4DD433B664E5D8C9AC4036094C6BDACBB.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/4H/D2P6FTPY9LI83SKZ50725B_Auto4.uasset'
+[2024.04.20-13.32.45:173][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/VB/TN33T5AS7Q0H36IO93FGBT_Auto4
+[2024.04.20-13.32.45:173][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/TN33T5AS7Q0H36IO93FGBT_Auto4D0F94CD74BDBEE2621D518B0BC29E7D2.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/VB/TN33T5AS7Q0H36IO93FGBT_Auto4.uasset'
+[2024.04.20-13.32.45:174][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/XP/E6G2FQQ0XNQTUTI7ITGX98_Auto4
+[2024.04.20-13.32.45:174][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/E6G2FQQ0XNQTUTI7ITGX98_Auto49A9E0ECE45D00B1B60443CB7FD4677AB.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/XP/E6G2FQQ0XNQTUTI7ITGX98_Auto4.uasset'
+[2024.04.20-13.32.45:175][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/36/1CRLD51T4M9UN8BL8SIOW8_Auto4
+[2024.04.20-13.32.45:175][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/1CRLD51T4M9UN8BL8SIOW8_Auto4A3B7B60D481A44FD2943CB98D2FFC777.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/36/1CRLD51T4M9UN8BL8SIOW8_Auto4.uasset'
+[2024.04.20-13.32.45:176][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/40/K3ZYJG6V7Y0E6RCRXM4G2G_Auto4
+[2024.04.20-13.32.45:176][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/K3ZYJG6V7Y0E6RCRXM4G2G_Auto4DA2821884BCCAB83468AEBB930E80663.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/40/K3ZYJG6V7Y0E6RCRXM4G2G_Auto4.uasset'
+[2024.04.20-13.32.45:177][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/OU/5Q1KCP8PI9P4BVSM2JM2UV_Auto4
+[2024.04.20-13.32.45:177][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/5Q1KCP8PI9P4BVSM2JM2UV_Auto4F856DE2B4DD83FB3AD6B488FBBBBCD15.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/OU/5Q1KCP8PI9P4BVSM2JM2UV_Auto4.uasset'
+[2024.04.20-13.32.45:178][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/EW/PXXJRGUC4NWPO2YN0WVNNR_Auto4
+[2024.04.20-13.32.45:178][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/PXXJRGUC4NWPO2YN0WVNNR_Auto416B0121E472254B298ECB7BE1DDC13F9.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/EW/PXXJRGUC4NWPO2YN0WVNNR_Auto4.uasset'
+[2024.04.20-13.32.45:179][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/R4/B337UJ9RLUT4NHFUOTZQQ5_Auto4
+[2024.04.20-13.32.45:179][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/B337UJ9RLUT4NHFUOTZQQ5_Auto40C1FCAD34A97B045BA143B8B1D0E5CFE.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/R4/B337UJ9RLUT4NHFUOTZQQ5_Auto4.uasset'
+[2024.04.20-13.32.45:180][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/N5/1DGT2GNBKSU7RDWFS1TB6C_Auto4
+[2024.04.20-13.32.45:180][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/1DGT2GNBKSU7RDWFS1TB6C_Auto4EB0402934767D7B340857AB56691B3B8.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/N5/1DGT2GNBKSU7RDWFS1TB6C_Auto4.uasset'
+[2024.04.20-13.32.45:181][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/A9/HK8LDE3P9LYULCU20CNL5H_Auto4
+[2024.04.20-13.32.45:181][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/HK8LDE3P9LYULCU20CNL5H_Auto455CE8C3E4D861AA7944643A6AF1D0BAE.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/A9/HK8LDE3P9LYULCU20CNL5H_Auto4.uasset'
+[2024.04.20-13.32.45:182][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/L7/HKQ7WPDI0KN7CSMN19N44P_Auto4
+[2024.04.20-13.32.45:182][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/HKQ7WPDI0KN7CSMN19N44P_Auto4725253AD43A6DBA85695D99F25D0FCF8.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/L7/HKQ7WPDI0KN7CSMN19N44P_Auto4.uasset'
+[2024.04.20-13.32.45:183][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/E4/WEKOOXFUM1T19MZZJ0ZLSZ_Auto4
+[2024.04.20-13.32.45:183][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/WEKOOXFUM1T19MZZJ0ZLSZ_Auto4C701615B4C25DC0FBBBA999B35E8F0CA.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/E4/WEKOOXFUM1T19MZZJ0ZLSZ_Auto4.uasset'
+[2024.04.20-13.32.45:184][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/MK/7EQA23D5BE5U2GMCSSFP8E_Auto4
+[2024.04.20-13.32.45:184][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/7EQA23D5BE5U2GMCSSFP8E_Auto43D06115C4627EB265A70EC86764EDF56.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/MK/7EQA23D5BE5U2GMCSSFP8E_Auto4.uasset'
+[2024.04.20-13.32.45:186][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/PV/7A7T48P7885Q3THIK305C9_Auto4
+[2024.04.20-13.32.45:186][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/7A7T48P7885Q3THIK305C9_Auto48D16D29F4D5EEA660231B09F73F9A023.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/PV/7A7T48P7885Q3THIK305C9_Auto4.uasset'
+[2024.04.20-13.32.45:187][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/B5/FXYN9ZKCQBO2VAT8LHE3J2_Auto4
+[2024.04.20-13.32.45:187][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/FXYN9ZKCQBO2VAT8LHE3J2_Auto4F46B063A40FBA4B1A266C6917D1ED854.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/B5/FXYN9ZKCQBO2VAT8LHE3J2_Auto4.uasset'
+[2024.04.20-13.32.45:188][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/98/6RRA0MU7Y8S6ZODFBE1OTU_Auto4
+[2024.04.20-13.32.45:188][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/6RRA0MU7Y8S6ZODFBE1OTU_Auto4CCD778EC41755298B6AE609F17F20C12.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/98/6RRA0MU7Y8S6ZODFBE1OTU_Auto4.uasset'
+[2024.04.20-13.32.45:189][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/L4/CXOHB1E74T9HOTO6O63R40_Auto4
+[2024.04.20-13.32.45:189][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/CXOHB1E74T9HOTO6O63R40_Auto4C5B9E88742FC877D088EEEA3B9346AC4.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/L4/CXOHB1E74T9HOTO6O63R40_Auto4.uasset'
+[2024.04.20-13.32.45:190][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/SI/JW1XZCZ41R9IXKP5KA9ROW_Auto4
+[2024.04.20-13.32.45:190][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/JW1XZCZ41R9IXKP5KA9ROW_Auto428C3B56A4FDECD6DF3AA09A2A2D2DC82.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/SI/JW1XZCZ41R9IXKP5KA9ROW_Auto4.uasset'
+[2024.04.20-13.32.45:191][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/4X/LBYSMSNI5K1YEKNMYVF0YF_Auto4
+[2024.04.20-13.32.45:191][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/LBYSMSNI5K1YEKNMYVF0YF_Auto448162B5143D21F5824C497A782083ED3.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/4X/LBYSMSNI5K1YEKNMYVF0YF_Auto4.uasset'
+[2024.04.20-13.32.45:192][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/OP/20ZS5H05NCYB63OIY6O24K_Auto4
+[2024.04.20-13.32.45:192][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/20ZS5H05NCYB63OIY6O24K_Auto4CFC919CF478206B4848EFFA710864DA2.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/OP/20ZS5H05NCYB63OIY6O24K_Auto4.uasset'
+[2024.04.20-13.32.45:193][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/AE/4ZCP7IYV7F76H5VZBMQVKN_Auto4
+[2024.04.20-13.32.45:193][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/4ZCP7IYV7F76H5VZBMQVKN_Auto44AD7025C4793FEA98A64A8B63486FA97.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/AE/4ZCP7IYV7F76H5VZBMQVKN_Auto4.uasset'
+[2024.04.20-13.32.45:194][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/6V/OIG34EASQTX7WPGITOBRJM_Auto4
+[2024.04.20-13.32.45:194][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/OIG34EASQTX7WPGITOBRJM_Auto4316E843342DE48210C761299A8E4FFEE.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/6V/OIG34EASQTX7WPGITOBRJM_Auto4.uasset'
+[2024.04.20-13.32.45:195][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/YS/PB4IAHLVFYPWYZKPF5FZ72_Auto4
+[2024.04.20-13.32.45:195][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/PB4IAHLVFYPWYZKPF5FZ72_Auto45B3EA8274457C8F66779F395F5F7B925.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/YS/PB4IAHLVFYPWYZKPF5FZ72_Auto4.uasset'
+[2024.04.20-13.32.45:197][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/VK/2T4HMAN5MIB8QO98AB209W_Auto4
+[2024.04.20-13.32.45:197][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/2T4HMAN5MIB8QO98AB209W_Auto4F99FC20B42BF6DF7D011DB92F145B5C2.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/VK/2T4HMAN5MIB8QO98AB209W_Auto4.uasset'
+[2024.04.20-13.32.45:198][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/UA/1JE8JXUS8X5BTVA81JPT3C_Auto4
+[2024.04.20-13.32.45:198][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/1JE8JXUS8X5BTVA81JPT3C_Auto463D46EA649CD56874DF4C6A3D6CDAF70.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/UA/1JE8JXUS8X5BTVA81JPT3C_Auto4.uasset'
+[2024.04.20-13.32.45:199][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/XI/RXBWO7UOEI7I8WFKN6COT7_Auto4
+[2024.04.20-13.32.45:199][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/RXBWO7UOEI7I8WFKN6COT7_Auto427BDCDD3476DE1B35DD0DD8014907982.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/XI/RXBWO7UOEI7I8WFKN6COT7_Auto4.uasset'
+[2024.04.20-13.32.45:200][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/U1/IBARWXGT2N4E5WZDEGMXF2_Auto4
+[2024.04.20-13.32.45:200][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/IBARWXGT2N4E5WZDEGMXF2_Auto4B40941FD423C4DB7C04C7BAFFBA8ACD1.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/U1/IBARWXGT2N4E5WZDEGMXF2_Auto4.uasset'
+[2024.04.20-13.32.45:201][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/CI/5XXFDROGMTZOZ2FHORFYD0_Auto4
+[2024.04.20-13.32.45:201][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/5XXFDROGMTZOZ2FHORFYD0_Auto48D935DDB4883E3CDB8F7C0ABB93D1069.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/CI/5XXFDROGMTZOZ2FHORFYD0_Auto4.uasset'
+[2024.04.20-13.32.45:202][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/B4/L9RTIO0PC1AQL2LQIF4KR5_Auto4
+[2024.04.20-13.32.45:202][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/L9RTIO0PC1AQL2LQIF4KR5_Auto4D9A16B8744405130056B6592ADEDA478.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/B4/L9RTIO0PC1AQL2LQIF4KR5_Auto4.uasset'
+[2024.04.20-13.32.45:203][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/66/R2JW7WGXY4ONR1BI41J4T2_Auto4
+[2024.04.20-13.32.45:203][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/R2JW7WGXY4ONR1BI41J4T2_Auto423BD893B4FA399D7FE2163A84C8593B8.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/66/R2JW7WGXY4ONR1BI41J4T2_Auto4.uasset'
+[2024.04.20-13.32.45:204][488]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.072
+[2024.04.20-13.32.45:204][488]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.072
+[2024.04.20-13.32.45:204][488]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/MI_Solid_Yelloz] ([1] browsable assets)...
+[2024.04.20-13.32.45:204][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_Solid_Yelloz]
+[2024.04.20-13.32.45:205][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Materials/MI_Solid_Yelloz_Auto4
+[2024.04.20-13.32.45:205][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/MI_Solid_Yelloz_Auto405BC9DEE4C256C904652D4805BC59837.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/LevelPrototyping/Materials/MI_Solid_Yelloz_Auto4.uasset'
+[2024.04.20-13.32.45:205][488]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/MI_Solid_Pink] ([1] browsable assets)...
+[2024.04.20-13.32.45:205][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_Solid_Pink]
+[2024.04.20-13.32.45:206][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Materials/MI_Solid_Pink_Auto4
+[2024.04.20-13.32.45:206][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/MI_Solid_Pink_Auto409E1027E46F3BA0632F48AB74BF9CCFF.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/LevelPrototyping/Materials/MI_Solid_Pink_Auto4.uasset'
+[2024.04.20-13.32.45:206][488]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Maps/_GENERATED/PC/Merge_5E343C1B] ([1] browsable assets)...
+[2024.04.20-13.32.45:206][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Maps/_GENERATED/PC/Merge_5E343C1B]
+[2024.04.20-13.32.45:208][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Maps/_GENERATED/PC/Merge_5E343C1B_Auto4
+[2024.04.20-13.32.45:208][488]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Merge_5E343C1B_Auto4DE09C82A4BA78D7031F17E8C181CB07F.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Autosaves/Game/TopDown/Maps/_GENERATED/PC/Merge_5E343C1B_Auto4.uasset'
+[2024.04.20-13.32.45:208][488]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.04.20-13.32.45:448][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.20-13.33.20:480][230]Cmd: DUPLICATE
+[2024.04.20-13.33.20:480][230]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.33.23:842][426]Cmd: TRANSACTION UNDO
+[2024.04.20-13.33.23:842][426]LogEditorTransaction: Undo Duplicate Elements
+[2024.04.20-13.33.30:651][794]Cmd: DUPLICATE
+[2024.04.20-13.33.30:652][794]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.33.38:139][227]Cmd: DUPLICATE
+[2024.04.20-13.33.38:139][227]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.34.05:270][803]Cmd: DUPLICATE
+[2024.04.20-13.34.05:270][803]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.34.38:543][731]Cmd: TRANSACTION UNDO
+[2024.04.20-13.34.38:543][731]LogEditorTransaction: Undo Rotate Elements
+[2024.04.20-13.34.53:748][618]Cmd: TRANSACTION UNDO
+[2024.04.20-13.34.53:748][618]LogEditorTransaction: Undo Scale Elements
+[2024.04.20-13.35.01:765][ 85]Cmd: POLY SELECT MEMORY UNION
+[2024.04.20-13.35.04:618][254]Cmd: TRANSACTION UNDO
+[2024.04.20-13.35.04:618][254]LogEditorTransaction: Undo Move Elements
+[2024.04.20-13.35.05:013][264]Cmd: TRANSACTION UNDO
+[2024.04.20-13.35.05:013][264]LogEditorTransaction: Undo Scale Elements
+[2024.04.20-13.35.09:249][512]Cmd: TRANSACTION UNDO
+[2024.04.20-13.35.09:249][512]LogEditorTransaction: Undo Move Elements
+[2024.04.20-13.35.29:593][689]Cmd: DUPLICATE
+[2024.04.20-13.35.29:593][689]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.35.34:654][980]Cmd: DUPLICATE
+[2024.04.20-13.35.34:654][980]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.36.08:447][911]Cmd: DUPLICATE
+[2024.04.20-13.36.08:447][911]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.36.09:427][966]Cmd: TRANSACTION UNDO
+[2024.04.20-13.36.09:427][966]LogEditorTransaction: Undo Duplicate Elements
+[2024.04.20-13.36.47:699][176]Cmd: DUPLICATE
+[2024.04.20-13.36.47:699][176]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.37.44:920][515]Cmd: DUPLICATE
+[2024.04.20-13.37.44:920][515]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.38.17:436][118]Cmd: DUPLICATE
+[2024.04.20-13.38.17:436][118]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.38.20:713][307]Cmd: TRANSACTION UNDO
+[2024.04.20-13.38.20:713][307]LogEditorTransaction: Undo Move Elements
+[2024.04.20-13.38.31:620][934]Cmd: TRANSACTION UNDO
+[2024.04.20-13.38.31:620][934]LogEditorTransaction: Undo Scale Elements
+[2024.04.20-13.38.36:456][200]Cmd: DUPLICATE
+[2024.04.20-13.38.36:456][200]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.38.38:436][315]Cmd: TRANSACTION UNDO
+[2024.04.20-13.38.38:436][315]LogEditorTransaction: Undo Move Elements
+[2024.04.20-13.39.06:894][954]Cmd: DUPLICATE
+[2024.04.20-13.39.06:894][954]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.39.17:447][573]Cmd: DUPLICATE
+[2024.04.20-13.39.17:447][573]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.39.24:951][ 12]Cmd: DELETE
+[2024.04.20-13.39.24:951][ 12]Cmd: ACTOR DELETE
+[2024.04.20-13.39.24:953][ 12]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.20-13.39.24:961][ 12]LogWorldPartition: Actor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1956158557 is unreachable without properly detaching object /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/AA/C69TE442NRVR4AYR9MQVWE.PackageMetaData in its package
+[2024.04.20-13.39.24:961][ 12]LogWorldPartition: Actor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1788191551 is unreachable without properly detaching object /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/YK/9NIUABWU2KLUR34WKSU81F.PackageMetaData in its package
+[2024.04.20-13.39.24:962][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.20-13.39.24:964][ 12]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2024.04.20-13.39.24:978][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.20-13.39.27:355][148]Cmd: DUPLICATE
+[2024.04.20-13.39.27:355][148]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.39.32:196][424]Cmd: DUPLICATE
+[2024.04.20-13.39.32:196][424]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.39.35:878][640]Cmd: DUPLICATE
+[2024.04.20-13.39.35:878][640]Cmd: ACTOR DUPLICATE
+[2024.04.20-13.39.48:458][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.20-13.39.48:495][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.04.20-13.39.48:503][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.20-13.39.48:510][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.20-13.39.48:512][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/RG/XOAZMB5QVL20UGXOCZ1LZK
+[2024.04.20-13.39.48:512][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/XOAZMB5QVL20UGXOCZ1LZK5DA85ECB48985AE5887470905C7BA580.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/RG/XOAZMB5QVL20UGXOCZ1LZK.uasset'
+[2024.04.20-13.39.48:513][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/N0/H4XYQ1M82APWV5G3IGPGM4
+[2024.04.20-13.39.48:513][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/H4XYQ1M82APWV5G3IGPGM405C65D274E7927E19D221F90269002A2.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/N0/H4XYQ1M82APWV5G3IGPGM4.uasset'
+[2024.04.20-13.39.48:514][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/ZX/BYM4CZZPBM2ZFW0HMGVW1I
+[2024.04.20-13.39.48:514][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/BYM4CZZPBM2ZFW0HMGVW1IB470AED74FB99D8E242715A52A1B0936.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/ZX/BYM4CZZPBM2ZFW0HMGVW1I.uasset'
+[2024.04.20-13.39.48:516][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/FY/45JOQ38QR4K2P62IGCH99F
+[2024.04.20-13.39.48:516][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/45JOQ38QR4K2P62IGCH99F89B29A56457320243878A7B5C98C2642.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/FY/45JOQ38QR4K2P62IGCH99F.uasset'
+[2024.04.20-13.39.48:517][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/RR/1R5LAPNERFWRYEGPFFO0BU
+[2024.04.20-13.39.48:517][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/1R5LAPNERFWRYEGPFFO0BU5668C9244BA385609A5C24B30EEEBB0F.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/RR/1R5LAPNERFWRYEGPFFO0BU.uasset'
+[2024.04.20-13.39.48:518][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/1Q/INN00EJVWRLJLN5YZUZNT2
+[2024.04.20-13.39.48:518][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/INN00EJVWRLJLN5YZUZNT21522AAC14D42AE336D0F019706E7D1F2.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/1Q/INN00EJVWRLJLN5YZUZNT2.uasset'
+[2024.04.20-13.39.48:519][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/06/GGVMWHOIXUED0LCETUJXG1
+[2024.04.20-13.39.48:520][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/GGVMWHOIXUED0LCETUJXG1AC74144D4F3BB4F8E55676AA7E0F1AF4.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/06/GGVMWHOIXUED0LCETUJXG1.uasset'
+[2024.04.20-13.39.48:521][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/M8/ZKS67EZMJRT30PBSBJ1CDZ
+[2024.04.20-13.39.48:521][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/ZKS67EZMJRT30PBSBJ1CDZA8C1C4F64B5D84FC6BC8D1BEAE8C562F.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/M8/ZKS67EZMJRT30PBSBJ1CDZ.uasset'
+[2024.04.20-13.39.48:522][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/BA/6SKJD5GA9HDYCOPEFI0GJ0
+[2024.04.20-13.39.48:522][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/6SKJD5GA9HDYCOPEFI0GJ06130FA9B40BD78AE4CB41DB5E56FDB11.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/BA/6SKJD5GA9HDYCOPEFI0GJ0.uasset'
+[2024.04.20-13.39.48:523][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/W8/GUAEQT0F18GWO5SDW6RX5K
+[2024.04.20-13.39.48:523][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/GUAEQT0F18GWO5SDW6RX5KB3572059457463724E85D3B366973FB3.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/W8/GUAEQT0F18GWO5SDW6RX5K.uasset'
+[2024.04.20-13.39.48:524][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/H3/O4DEJGT9PVL8NRCWB39N3L
+[2024.04.20-13.39.48:525][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/O4DEJGT9PVL8NRCWB39N3L88932692401F62BAD53996B4F943DCC4.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/H3/O4DEJGT9PVL8NRCWB39N3L.uasset'
+[2024.04.20-13.39.48:526][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/7W/4WF9SH0TYYQKYUSI7SWK94
+[2024.04.20-13.39.48:526][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/4WF9SH0TYYQKYUSI7SWK946D530697409F71AF29EDDC931325A488.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/7W/4WF9SH0TYYQKYUSI7SWK94.uasset'
+[2024.04.20-13.39.48:527][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/AU/L5QSGFL41ON3BG465BQ0K8
+[2024.04.20-13.39.48:527][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/L5QSGFL41ON3BG465BQ0K8916D320942338F013250FE937392980F.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/AU/L5QSGFL41ON3BG465BQ0K8.uasset'
+[2024.04.20-13.39.48:529][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/RN/C26BOIMOXRMSTKO6R8TF5K
+[2024.04.20-13.39.48:529][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/C26BOIMOXRMSTKO6R8TF5K2D3D133F40B65DA220A0E7AA310DA7E8.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/RN/C26BOIMOXRMSTKO6R8TF5K.uasset'
+[2024.04.20-13.39.48:530][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/O3/XMN7V25ZW3SXGTE3OHZREB
+[2024.04.20-13.39.48:530][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/XMN7V25ZW3SXGTE3OHZREB3FFC98924DC419654B67A29CF2D8B898.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/O3/XMN7V25ZW3SXGTE3OHZREB.uasset'
+[2024.04.20-13.39.48:531][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/4H/D2P6FTPY9LI83SKZ50725B
+[2024.04.20-13.39.48:531][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/D2P6FTPY9LI83SKZ50725BFA0AFD494FA0C5BCD210F39611C53DA8.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/4H/D2P6FTPY9LI83SKZ50725B.uasset'
+[2024.04.20-13.39.48:532][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/VB/TN33T5AS7Q0H36IO93FGBT
+[2024.04.20-13.39.48:532][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/TN33T5AS7Q0H36IO93FGBTC881CB554D88ED7F1188288C445A9068.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/VB/TN33T5AS7Q0H36IO93FGBT.uasset'
+[2024.04.20-13.39.48:533][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/XP/E6G2FQQ0XNQTUTI7ITGX98
+[2024.04.20-13.39.48:533][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/E6G2FQQ0XNQTUTI7ITGX98098B997648D9E5227E237B8E70EED26F.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/XP/E6G2FQQ0XNQTUTI7ITGX98.uasset'
+[2024.04.20-13.39.48:535][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/36/1CRLD51T4M9UN8BL8SIOW8
+[2024.04.20-13.39.48:535][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/1CRLD51T4M9UN8BL8SIOW8AEF91D034EEAA8A8E2F4EEB82E87CC14.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/36/1CRLD51T4M9UN8BL8SIOW8.uasset'
+[2024.04.20-13.39.48:536][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/40/K3ZYJG6V7Y0E6RCRXM4G2G
+[2024.04.20-13.39.48:536][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/K3ZYJG6V7Y0E6RCRXM4G2GFA6B17BA48DD6B720FCB4F95AA68672A.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/40/K3ZYJG6V7Y0E6RCRXM4G2G.uasset'
+[2024.04.20-13.39.48:538][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/OU/5Q1KCP8PI9P4BVSM2JM2UV
+[2024.04.20-13.39.48:538][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/5Q1KCP8PI9P4BVSM2JM2UVD52F6A58472F93D141D5EF964EC04D78.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/OU/5Q1KCP8PI9P4BVSM2JM2UV.uasset'
+[2024.04.20-13.39.48:539][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/EW/PXXJRGUC4NWPO2YN0WVNNR
+[2024.04.20-13.39.48:539][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/PXXJRGUC4NWPO2YN0WVNNR1DC330F74E179E76FC4572921AA3EDE3.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/EW/PXXJRGUC4NWPO2YN0WVNNR.uasset'
+[2024.04.20-13.39.48:540][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/R4/B337UJ9RLUT4NHFUOTZQQ5
+[2024.04.20-13.39.48:540][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/B337UJ9RLUT4NHFUOTZQQ50874EA8C4866AEBDC77DFF806210A21B.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/R4/B337UJ9RLUT4NHFUOTZQQ5.uasset'
+[2024.04.20-13.39.48:541][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/N5/1DGT2GNBKSU7RDWFS1TB6C
+[2024.04.20-13.39.48:542][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/1DGT2GNBKSU7RDWFS1TB6CEFC62ABB42C05CDDDA5CBDA0CB554483.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/N5/1DGT2GNBKSU7RDWFS1TB6C.uasset'
+[2024.04.20-13.39.48:543][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/A9/HK8LDE3P9LYULCU20CNL5H
+[2024.04.20-13.39.48:543][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/HK8LDE3P9LYULCU20CNL5H6C147FAE4021269638589C9E27EDAF92.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/A9/HK8LDE3P9LYULCU20CNL5H.uasset'
+[2024.04.20-13.39.48:544][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/L7/HKQ7WPDI0KN7CSMN19N44P
+[2024.04.20-13.39.48:544][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/HKQ7WPDI0KN7CSMN19N44PA12F4FBF42F4497B12F8938AB01B1432.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/L7/HKQ7WPDI0KN7CSMN19N44P.uasset'
+[2024.04.20-13.39.48:545][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/E4/WEKOOXFUM1T19MZZJ0ZLSZ
+[2024.04.20-13.39.48:545][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/WEKOOXFUM1T19MZZJ0ZLSZD8BD1B384850043AA065FA86D241B2C4.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/E4/WEKOOXFUM1T19MZZJ0ZLSZ.uasset'
+[2024.04.20-13.39.48:546][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/MK/7EQA23D5BE5U2GMCSSFP8E
+[2024.04.20-13.39.48:547][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/7EQA23D5BE5U2GMCSSFP8E24BFCE0C45352D0ADDED928107998C4A.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/MK/7EQA23D5BE5U2GMCSSFP8E.uasset'
+[2024.04.20-13.39.48:548][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/PV/7A7T48P7885Q3THIK305C9
+[2024.04.20-13.39.48:548][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/7A7T48P7885Q3THIK305C93E3794CB44EC01719393BBA9C3CA8233.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/PV/7A7T48P7885Q3THIK305C9.uasset'
+[2024.04.20-13.39.48:549][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/B5/FXYN9ZKCQBO2VAT8LHE3J2
+[2024.04.20-13.39.48:549][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/FXYN9ZKCQBO2VAT8LHE3J27E5D4A7649BF32E35E2C75881E2C66F5.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/B5/FXYN9ZKCQBO2VAT8LHE3J2.uasset'
+[2024.04.20-13.39.48:550][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/98/6RRA0MU7Y8S6ZODFBE1OTU
+[2024.04.20-13.39.48:550][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/6RRA0MU7Y8S6ZODFBE1OTUB954D6CA4284337F3834FDAEAF799F45.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/98/6RRA0MU7Y8S6ZODFBE1OTU.uasset'
+[2024.04.20-13.39.48:552][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/L4/CXOHB1E74T9HOTO6O63R40
+[2024.04.20-13.39.48:552][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/CXOHB1E74T9HOTO6O63R400A87DF9E4D83F8DC8AF943AB97FA8BAF.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/L4/CXOHB1E74T9HOTO6O63R40.uasset'
+[2024.04.20-13.39.48:553][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/SI/JW1XZCZ41R9IXKP5KA9ROW
+[2024.04.20-13.39.48:553][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/JW1XZCZ41R9IXKP5KA9ROWA3D4417847E6F59DF3B9CFB9BDA03FAF.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/SI/JW1XZCZ41R9IXKP5KA9ROW.uasset'
+[2024.04.20-13.39.48:554][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/4X/LBYSMSNI5K1YEKNMYVF0YF
+[2024.04.20-13.39.48:554][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/LBYSMSNI5K1YEKNMYVF0YFE09DEE8240F38A5EB26947A3DD363EBE.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/4X/LBYSMSNI5K1YEKNMYVF0YF.uasset'
+[2024.04.20-13.39.48:556][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/OP/20ZS5H05NCYB63OIY6O24K
+[2024.04.20-13.39.48:556][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/20ZS5H05NCYB63OIY6O24K5C0B79474FFE3DBD09F8FB9610991646.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/OP/20ZS5H05NCYB63OIY6O24K.uasset'
+[2024.04.20-13.39.48:557][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/AE/4ZCP7IYV7F76H5VZBMQVKN
+[2024.04.20-13.39.48:557][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/4ZCP7IYV7F76H5VZBMQVKNFA1365044816D001E782B08CA758530F.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/AE/4ZCP7IYV7F76H5VZBMQVKN.uasset'
+[2024.04.20-13.39.48:558][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/6V/OIG34EASQTX7WPGITOBRJM
+[2024.04.20-13.39.48:558][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/OIG34EASQTX7WPGITOBRJM72A5C3824E8665223E6230B38FF9E7BA.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/6V/OIG34EASQTX7WPGITOBRJM.uasset'
+[2024.04.20-13.39.48:560][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/YS/PB4IAHLVFYPWYZKPF5FZ72
+[2024.04.20-13.39.48:560][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/PB4IAHLVFYPWYZKPF5FZ72ACCB8BE84DE91F67AC7B11B1FC72B32B.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/YS/PB4IAHLVFYPWYZKPF5FZ72.uasset'
+[2024.04.20-13.39.48:561][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/VK/2T4HMAN5MIB8QO98AB209W
+[2024.04.20-13.39.48:561][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/2T4HMAN5MIB8QO98AB209W331E436A44A04FD6F7DC60A2B795C35A.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/VK/2T4HMAN5MIB8QO98AB209W.uasset'
+[2024.04.20-13.39.48:562][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/UA/1JE8JXUS8X5BTVA81JPT3C
+[2024.04.20-13.39.48:562][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/1JE8JXUS8X5BTVA81JPT3CD2A7169E44681C0AC2B25CA9B4C69C5C.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/UA/1JE8JXUS8X5BTVA81JPT3C.uasset'
+[2024.04.20-13.39.48:563][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/XI/RXBWO7UOEI7I8WFKN6COT7
+[2024.04.20-13.39.48:563][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/RXBWO7UOEI7I8WFKN6COT7FAFDB08F4198E8D25AA0EA800EC0081F.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/XI/RXBWO7UOEI7I8WFKN6COT7.uasset'
+[2024.04.20-13.39.48:564][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/U1/IBARWXGT2N4E5WZDEGMXF2
+[2024.04.20-13.39.48:564][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/IBARWXGT2N4E5WZDEGMXF2A0F11A0A41323A015BB06388DA51296C.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/U1/IBARWXGT2N4E5WZDEGMXF2.uasset'
+[2024.04.20-13.39.48:566][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/CI/5XXFDROGMTZOZ2FHORFYD0
+[2024.04.20-13.39.48:566][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/5XXFDROGMTZOZ2FHORFYD0D414A373446BCE318A8400AD6D25580E.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/CI/5XXFDROGMTZOZ2FHORFYD0.uasset'
+[2024.04.20-13.39.48:567][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/B4/L9RTIO0PC1AQL2LQIF4KR5
+[2024.04.20-13.39.48:567][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/L9RTIO0PC1AQL2LQIF4KR59D8DCC6641D57AE39FE00398D5CC2D4C.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/B4/L9RTIO0PC1AQL2LQIF4KR5.uasset'
+[2024.04.20-13.39.48:568][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/66/R2JW7WGXY4ONR1BI41J4T2
+[2024.04.20-13.39.48:568][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/R2JW7WGXY4ONR1BI41J4T2531F292E4F03E0A3EEA4E492901D9C25.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/66/R2JW7WGXY4ONR1BI41J4T2.uasset'
+[2024.04.20-13.39.48:569][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/H8/WOFABP72RK4JXJM7ZMUPHM
+[2024.04.20-13.39.48:569][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/WOFABP72RK4JXJM7ZMUPHM9706A83842FCC657CDCED2B19E54DE5D.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/H8/WOFABP72RK4JXJM7ZMUPHM.uasset'
+[2024.04.20-13.39.48:571][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/KF/L9ODWAZXFBOKL7W2AXAPVQ
+[2024.04.20-13.39.48:571][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/L9ODWAZXFBOKL7W2AXAPVQBAA04D0D4A0458E2300CC6B48CBB9E64.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/KF/L9ODWAZXFBOKL7W2AXAPVQ.uasset'
+[2024.04.20-13.39.48:572][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/EV/ACOB8I3K1NDI44EBZO404I
+[2024.04.20-13.39.48:572][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/ACOB8I3K1NDI44EBZO404IB3F840B64F3C7C1E6B424596BA6D91EF.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/EV/ACOB8I3K1NDI44EBZO404I.uasset'
+[2024.04.20-13.39.48:573][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/O3/Q5A6XT6YE5701WH2LO8805
+[2024.04.20-13.39.48:573][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/Q5A6XT6YE5701WH2LO8805A86B8A2F40C81975472156872F6F1B66.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/O3/Q5A6XT6YE5701WH2LO8805.uasset'
+[2024.04.20-13.39.48:574][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/UX/JH62FAF8N7GVSNPX8DSF1D
+[2024.04.20-13.39.48:574][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/JH62FAF8N7GVSNPX8DSF1DA5C078BB4A6EB20AD308D8B9E3C4A653.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/UX/JH62FAF8N7GVSNPX8DSF1D.uasset'
+[2024.04.20-13.39.48:576][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/20/SQPI3K16SYPQUS1HMUE3NF
+[2024.04.20-13.39.48:576][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/SQPI3K16SYPQUS1HMUE3NF14FAB4824BFD6327515121BDB5045154.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/20/SQPI3K16SYPQUS1HMUE3NF.uasset'
+[2024.04.20-13.39.48:578][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/VN/GBV8TFZCE25VWDCYS2Y0H1
+[2024.04.20-13.39.48:578][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/GBV8TFZCE25VWDCYS2Y0H119A5E3014FFF81693C9DB4BC61C7EA13.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/VN/GBV8TFZCE25VWDCYS2Y0H1.uasset'
+[2024.04.20-13.39.48:580][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/3T/823MCWW0R2SYM6J9YHPEXL
+[2024.04.20-13.39.48:580][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/823MCWW0R2SYM6J9YHPEXLC2D220C3439C6E585B78B7A248D7536C.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/3T/823MCWW0R2SYM6J9YHPEXL.uasset'
+[2024.04.20-13.39.48:581][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/A0/8F1R84KI3A333R98BOOQNM
+[2024.04.20-13.39.48:581][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/8F1R84KI3A333R98BOOQNMCDBDFC664E745B4F70CBED9239A0AA36.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/A0/8F1R84KI3A333R98BOOQNM.uasset'
+[2024.04.20-13.39.48:583][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/X2/DMGELQH49ZMV1QDZQTCEND
+[2024.04.20-13.39.48:583][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/DMGELQH49ZMV1QDZQTCEND637C086A4E689CA641B78992DDC10EE4.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/X2/DMGELQH49ZMV1QDZQTCEND.uasset'
+[2024.04.20-13.39.48:584][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/F5/ZEWCXLEYV4QTKFWE76NY1I
+[2024.04.20-13.39.48:584][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/ZEWCXLEYV4QTKFWE76NY1I61ED6B2442F7D753FFC03EBD2866B45E.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/F5/ZEWCXLEYV4QTKFWE76NY1I.uasset'
+[2024.04.20-13.39.48:586][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/0T/CTZI1F6F9MLFYPEK4R222M
+[2024.04.20-13.39.48:586][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/CTZI1F6F9MLFYPEK4R222M147E66AE4BF323247064CFA1D99FADC9.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/0T/CTZI1F6F9MLFYPEK4R222M.uasset'
+[2024.04.20-13.39.48:587][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/YL/YLEIQDSG8JMJLBLAS8NETS
+[2024.04.20-13.39.48:587][376]LogSavePackage: Moving '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Saved/YLEIQDSG8JMJLBLAS8NETS69D68CB94104955A8BD5F4B2F4E5D84B.tmp' to '../../../../../../Users/PC/Documents/UnrealProjects/ExerciceLevelDesign/LevelDesignTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/YL/YLEIQDSG8JMJLBLAS8NETS.uasset'
+[2024.04.20-13.39.48:592][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 1.04 sec)
+[2024.04.20-13.39.48:593][376]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_17
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_BC0FF35E7470B6ED01_1559895480
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_BC0FF35E7470B6ED01_1602396482
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.TextRenderActor_0
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_BC0FF35E7470B6ED01_1634026485
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_BC0FF35E7470B6ED01_1658938486
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_BC0FF35E7470B6ED01_1619086483
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_1992220155
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_2015878157
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFEED01_1607650147
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFFED01_1263113334
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFFED01_1871148338
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFFED01_1877815339
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFFED01_1988323340
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFFED01_1996647341
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9CFFED01_1999402342
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1142719519
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1148793521
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1174730522
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1178255523
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1196282524
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1217241525
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1238255526
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1238256527
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1238258529
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1265933530
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1270989531
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1272300532
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1289596533
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1300119534
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1360187535
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1660163550
+[2024.04.20-13.39.48:593][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1415763537
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1428666538
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1439125539
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1502278540
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1503945541
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1510750542
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1516646543
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1554657544
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1597386545
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1610282546
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1627150547
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1631887548
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1654528549
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_2145158563
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1798363552
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1805851553
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1832982554
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1917305555
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1922365556
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_1995411558
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_2052631559
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_2085148560
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C00EE01_2104168561
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C01EE01_1081325740
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C01EE01_1086165741
+[2024.04.20-13.39.48:594][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_047C1639FC9C01EE01_1089847742
+[2024.04.20-13.40.07:322][511]LogDerivedDataCache: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.059 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 939 files in 1581 folders with total size 66 MiB.
